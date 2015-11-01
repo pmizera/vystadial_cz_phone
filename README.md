@@ -1,1 +1,1 @@
-# vystadial_cz_phone
+# vystadial_cz_phone - phone decode recipe
